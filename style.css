@@ -1,0 +1,49 @@
+a {
+    text-decoration: none;
+}
+
+.engenel {
+    width: auto;
+    height: auto;
+
+}
+
+.genel {
+    display: inline-block;
+    float: center;
+    width: 780px;
+    margin: 10px;
+    height: auto;
+    margin: auto;
+    background-color: transparent;
+}
+
+.ust img {
+    width: 780px;
+    height: 780px;
+    margin: 10px;
+}
+
+.orta .acik {
+    display: inline-block;
+    background-color: darkblue;
+    border: 5px solid lightcoral;
+    border-radius: 2px;
+    color: white;
+    width: 780px;
+    height: auto;
+    margin: 5px;
+}
+
+.orta .acik .aciklama {
+    display: inline-block;
+    width: 760px;
+    margin: 10px;
+}
+
+.orta .acik img {
+    display: inline-block;
+    width: 760px;
+    height: 360px;
+    margin: 10px;
+}
